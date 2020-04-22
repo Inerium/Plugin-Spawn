@@ -1,0 +1,11 @@
+name: H.Party-Spawn
+version: 0.0.1
+author: FullGreen
+main: Spawn.Launch.Launch
+commands:
+  setspawn:
+    description: Definie le point de spawn
+    usage: setspawn
+  spawn:
+    description: Teleporte le joueur au point de spawn
+    usage: spawn
